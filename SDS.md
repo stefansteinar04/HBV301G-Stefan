@@ -1,7 +1,7 @@
 # 🧭 System Description Specification (SDS)
 
 ## Númer teymis og höfundar
-7. Stefán Steinar Guðlaugsson, Dagur Ingi Viðar.
+7. Stefán Steinar Guðlaugsson, Dagur Ingi Viðar. alskjd
 
 ## Heiti kerfis
 Nemandakerfi fyrir námsmat
